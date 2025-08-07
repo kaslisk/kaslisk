@@ -4,4 +4,4 @@
 </p>
 most of my stuff are private due to course/competition/company regulations.
 
-the stuff that are not private are on kaggle.
+most of my data science project fetches data from kaggle so im storing them there but kaggle notebooks are slow
