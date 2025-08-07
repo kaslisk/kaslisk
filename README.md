@@ -7,4 +7,4 @@ most of my stuff are private due to course/competition/company regulation like d
 
 a lot of my data science projects use kaggle data so it makes more sense to store them there, except kaggle notebooks are notoriously slow (at least for me).
 
-i am interested in exploring vibe based solutions.
+i am interested in exploring vibe based solutions to financial modelling and data science.
